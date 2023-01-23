@@ -34,6 +34,7 @@ Essa função emite um `alert` avisando sobre a reprodução do vídeo, assim qu
       function reproduzVideo() {
         alert("O vídeo está sendo reproduzido")
       }
+      onClick={reproduzVideo}
     
       return (
     		<div>...
